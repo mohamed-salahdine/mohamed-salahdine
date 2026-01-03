@@ -1,15 +1,26 @@
-# Hi there, I'm Mohamed SALAHDINE 👋
+<div align="center">
 
-### 💻 Full Stack Developer | 🧱 Engineering-First Approach
+# Mohamed SALAHDINE
 
-I am a software developer blending **formal Full Stack Web training** with a rigorous self-study curriculum in **Computer Science fundamentals**. I don't just build applications; I focus on Data Structures, Algorithms, and Architecture to create scalable, efficient software.
+### Full Stack Developer | Software Engineering Enthusiast
+
+</div>
 
 ---
 
-## 🚀 The "Proof of Work"
+## 👨‍💻 About Me
+
+I am a software developer blending **formal Full Stack Web training** with a rigorous self-study curriculum in **Computer Science fundamentals**. I don't just build applications; I focus on Data Structures, Algorithms, and Architecture to create scalable, efficient software.
+
+My approach is **Engineering-First**: prioritizing memory management, algorithmic efficiency, and clean architecture over temporary hacks.
+
+---
+
+## 🏆 Proof of Work
+
 I believe in showing, not just telling. I actively document my solutions for complex algorithms, memory management, and architectural patterns in my dedicated repository:
 
-### 📂 [View My Programming Learning Journey](https://github.com/mohamed-salahdine/programming-learning-journey)
+### 👉 [View My Programming Learning Journey](https://github.com/mohamed-salahdine/programming-learning-journey)
 *(This repository contains my source code and progress on the ProgrammingAdvices.com roadmap)*
 
 ---
@@ -18,7 +29,7 @@ I believe in showing, not just telling. I actively document my solutions for com
 
 I possess a "T-Shaped" skill set: broad knowledge in modern web stacks and deep knowledge in software engineering foundations.
 
-### 🌐 Web Development (Production Ready)
+### Web Development (Production Ready)
 *I can build, deploy, and maintain full-stack applications using:*
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,7 +38,7 @@ I possess a "T-Shaped" skill set: broad knowledge in modern web stacks and deep 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🏗️ Computer Science & Engineering
+### Computer Science & Engineering
 *The core technologies I am mastering for backend architecture:*
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,35 +48,37 @@ I possess a "T-Shaped" skill set: broad knowledge in modern web stacks and deep 
 
 ---
 
-## 🗺️ My Engineering Journey
+## 🗺️ Engineering Roadmap Status
 
-I am strictly following the **General Foundation Roadmap** by *Dr. Mohamed Abu-Hadhoud*. This path is designed to transition developers into true Software Engineers through deep understanding of how computers work.
+I am strictly following the **General Foundation Roadmap** by *Dr. Mohamed Abu-Hadhoud*. This path is designed to transition developers into true Software Engineers through a deep understanding of how computers work.
 
-**Current Status:**
-
-| Skill Area | Status | Focus |
+| Core Competency | Progress | Technical Depth & Focus |
 | :--- | :--- | :--- |
-| **Full Stack Web** | ✅ Completed | React, Laravel, Node.js Ecosystem |
-| **Algorithms (Level 1-4)** | ✅ Completed | Problem Solving, Logic Optimization |
-| **C++ Foundations** | ✅ Completed | Pointers, Memory Management, STL |
-| **Data Structures** | 🔄 In Progress | Linked Lists, Trees, Stacks, Queues |
-| **OOP & Design** | ⏳ Next Up | SOLID Principles, Design Patterns |
-| **.NET Enterprise** | ⏳ Future | Advanced Backend Architecture |
+| **Full Stack Web** | ![Completed](https://img.shields.io/badge/Completed-SUCCESS?style=flat-square&color=2ea44f) | `React`, `Laravel`, `REST APIs`, `Deployment` |
+| **Algorithms (Level 1-5)** | ![Completed](https://img.shields.io/badge/Completed-SUCCESS?style=flat-square&color=2ea44f) | Advanced Logic, Complexity Analysis, Optimization |
+| **C++ Foundations** | ![Completed](https://img.shields.io/badge/Completed-SUCCESS?style=flat-square&color=2ea44f) | `Pointers`, `Memory Management`, `STL` |
+| **Data Structures** | ![In Progress](https://img.shields.io/badge/In%20Progress-BUSY?style=flat-square&color=blue) | Generic DS, Linked Lists, Stacks, Queues |
+| **C# & .NET** | ![Next Up](https://img.shields.io/badge/Starting-WAITING?style=flat-square&color=orange) | Modern C#, Syntax, OOP, LINQ |
+| **Databases** | ![Future](https://img.shields.io/badge/Future-WAITING?style=flat-square&color=lightgrey) | SQL Server, T-SQL, Relational Design |
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect with Me
+
+I am actively seeking **Full Stack** or **Backend** roles where I can apply my expertise in React and Laravel, backed by a strong foundation in algorithmic problem solving.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-salahdine&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+
+<a href="https://www.linkedin.com/in/mohamed-salahdine/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:mohamed.salahdine.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://salahmed.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
 </div>
-
----
-
-## 📫 Let's Connect
-
-I am open to opportunities where I can utilize my web development skills while continuing to grow as a backend engineer.
-
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-salahdine/)
-- **Email:** [youremail@example.com](mailto:mohamed.salahdine.official@gmail.com)
-- **Portfolio:** [yourportfolio.com](https://salahmed.netlify.app)
