@@ -1,42 +1,71 @@
-<h1 align="center">👋 Hi, I'm Mohamed SALAHDINE</h1>
+# Hi there, I'm Mohamed SALAHDINE 👋
 
-<h2 align="center">💻 Software Developer | 🌐 Full-Stack Enthusiast | 🚀 Lifelong Learner</h2>
+### 💻 Full Stack Developer | 🧱 Engineering-First Approach
 
-
-### 👨‍💻 About Me  
-
-I’m a **dedicated and detail-oriented software developer** with a strong foundation in **computer science fundamentals**, including **algorithms, data structures, and object-oriented programming (OOP)**.  
-
-My training follows a **structured and practical roadmap** focused on building **robust, scalable backend systems** using **C# and the .NET ecosystem**.  
-
-To complement my backend expertise, I have hands-on experience in **full-stack web development**, crafting **dynamic, responsive**, and **user-friendly interfaces** with modern technologies like **React** and **Laravel (PHP)**.  
-
-I’m passionate about **solving complex problems**, **writing clean, efficient code**, and continuously **learning and improving** to stay ahead in the fast-paced tech world.
+I am a software developer blending **formal Full Stack Web training** with a rigorous self-study curriculum in **Computer Science fundamentals**. I don't just build applications; I focus on Data Structures, Algorithms, and Architecture to create scalable, efficient software.
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 The "Proof of Work"
+I believe in showing, not just telling. I actively document my solutions for complex algorithms, memory management, and architectural patterns in my dedicated repository:
 
-My skills combine backend logic, frontend interactivity, and strong software development principles.  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,react,js,html,css,bootstrap,mysql,mongodb,git,linux,figma&perline=5" />
-  </a>
-</p>
+### 📂 [View My Programming Learning Journey](https://github.com/mohamed-salahdine/programming-learning-journey)
+*(This repository contains my source code and progress on the ProgrammingAdvices.com roadmap)*
 
 ---
 
-### 🌟 What I’m Currently Doing  
-- 🚧 Building full-stack projects to strengthen my GitHub portfolio  
-- 🔍 Exploring **.NET**, **React**, and **database design patterns**  
-- 📘 Improving my knowledge of **clean architecture** and **software design principles**
+## 🛠️ Technical Stack
+
+I possess a "T-Shaped" skill set: broad knowledge in modern web stacks and deep knowledge in software engineering foundations.
+
+### 🌐 Web Development (Production Ready)
+*I can build, deploy, and maintain full-stack applications using:*
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🏗️ Computer Science & Engineering
+*The core technologies I am mastering for backend architecture:*
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-### 📫 Connect with Me  
+## 🗺️ My Engineering Journey
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamed-salahdine"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:salahmed.official@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
-</p>
+I am strictly following the **General Foundation Roadmap** by *Dr. Mohamed Abu-Hadhoud*. This path is designed to transition developers into true Software Engineers through deep understanding of how computers work.
+
+**Current Status:**
+
+| Skill Area | Status | Focus |
+| :--- | :--- | :--- |
+| **Full Stack Web** | ✅ Completed | React, Laravel, Node.js Ecosystem |
+| **Algorithms (Level 1-4)** | ✅ Completed | Problem Solving, Logic Optimization |
+| **C++ Foundations** | ✅ Completed | Pointers, Memory Management, STL |
+| **Data Structures** | 🔄 In Progress | Linked Lists, Trees, Stacks, Queues |
+| **OOP & Design** | ⏳ Next Up | SOLID Principles, Design Patterns |
+| **.NET Enterprise** | ⏳ Future | Advanced Backend Architecture |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-salahdine&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I am open to opportunities where I can utilize my web development skills while continuing to grow as a backend engineer.
+
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-salahdine/)
+- **Email:** [youremail@example.com](mailto:mohamed.salahdine.official@gmail.com)
+- **Portfolio:** [yourportfolio.com](https://salahmed.netlify.app)
