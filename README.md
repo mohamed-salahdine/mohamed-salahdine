@@ -1,5 +1,5 @@
 # Hi, I'm Mohamed SALAHDINE 👋
-**Software Developer | Computer Science Fundamentals in Progress**
+**Software Developer**
 
 I’m a software developer currently following the **ProgrammingAdvices.com professional roadmap**.
 I am actively building strong foundations in **programming, problem-solving, algorithms,
