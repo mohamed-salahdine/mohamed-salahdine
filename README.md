@@ -1,63 +1,17 @@
-# Hi, I'm Mohamed SALAHDINE 👋
-**Software Developer**
+# Hello, I'm Mohamed SALAHDINE 🦅
 
-I’m a software developer currently following the **ProgrammingAdvices.com professional roadmap**.
-I am actively building strong foundations in **programming, problem-solving, algorithms,
-object-oriented programming, and databases**.
+I am a **Software Engineer** specializing in the Microsoft Stack (.NET).
+I am a graduate of the **ProgrammingAdvices** roadmap, with a heavy focus on Algorithms, Data Structures, and System Architecture.
 
-At the moment, I am studying **Databases – Level 1**, focusing on SQL and relational database concepts,
-while continuously practicing and improving my problem-solving skills.
+### 💻 Technologies
+*   **Languages:** C++, C#, T-SQL
+*   **Development:** .NET, WinForms, ASP.NET Core
+*   **Principles:** OOP, SOLID, Design Patterns, Clean Code
+*   **Database:** SQL Server
 
----
+### 🚀 Key Achievements
+*   Solved **400+ Algorithmic Problems** on the ProgrammingAdvices platform.
+*   Built a **custom String Library** and **Date Library** in C++ to understand low-level implementation.
+*   Developed a **3-Tier Architecture** Contact Management System.
 
-## 🧠 Current Learning Focus
-- Programming fundamentals
-- Algorithms & problem solving
-- Data structures (core concepts)
-- Object-Oriented Programming
-- **Databases & SQL (currently studying – Level 1)**
-
----
-
-## 📚 Roadmap Progress
-- ✅ Programming Fundamentals
-- ✅ Algorithms & Problem Solving (Levels 1–5)
-- ✅ C++ Programming (Levels 1–2)
-- ✅ OOP (Concepts & Applications)
-- 🔄 Databases – Level 1 (In Progress)
-- ⏭️ C# Programming & Advanced Topics (Upcoming)
-
----
-
-## 📂 Featured Repository
-
-### 🔹 ProgrammingAdvices Roadmap (In Progress)
-A structured repository that follows the **exact order of the ProgrammingAdvices courses**.
-
-- Practical exercises and implementations
-- Progressive difficulty
-- Clear folder structure per course
-
-➡️ **Repository:** `programming-advices-roadmap`
-
----
-
-## 🛠️ Technologies & Tools
-- **C++**
-- **SQL (currently practicing)**
-- Basic exposure to **C#**
-- Console-based applications
-
----
-
-## 🎯 What I Focus On
-- Understanding fundamentals before moving forward
-- Writing clear and readable code
-- Solving problems step by step
-- Learning concepts deeply, not superficially
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/mohamed-salahdine
-- LinkedIn: https://linkedin.com/in/mohamed-salahdine
+[Connect with me on LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-salahdine/)
