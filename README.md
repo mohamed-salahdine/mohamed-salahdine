@@ -14,4 +14,4 @@ I am a graduate of the **ProgrammingAdvices** roadmap, with a heavy focus on Alg
 *   Built a **custom String Library** and **Date Library** in C++ to understand low-level implementation.
 *   Developed a **3-Tier Architecture** Contact Management System.
 
-[Connect with me on LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-salahdine/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/mohamed-salahdine/)
