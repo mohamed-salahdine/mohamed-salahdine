@@ -1,27 +1,38 @@
 # Hello, I'm Mohamed SALAHDINE 🦅
 
-I am a **Software Engineer** specializing in the Microsoft Stack (.NET).
-I am a graduate of the **ProgrammingAdvices** roadmap, with a heavy focus on Algorithms, Data Structures, and System Architecture.
+I’m a **Software Engineer** specializing in the **Microsoft Stack (.NET)**, with a strong foundation in **computer science fundamentals**.
 
-### 💻 Technologies
-*   **Languages:** C++, C#, T-SQL
-*   **Development:** .NET, WinForms, ASP.NET Core
-*   **Principles:** OOP, SOLID, Design Patterns, Clean Code
-*   **Database:** SQL Server
+I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focus on **Algorithms, Data Structures, Object-Oriented Programming, and backend system design**, developed through extensive hands-on practice.
 
-### 🛠️ Featured Projects
+---
+
+## 💻 Technologies
+
+- **Languages:** C++, C#, T-SQL  
+- **Development:** .NET, WinForms, ASP.NET Core  
+- **Principles:** OOP, SOLID, Design Patterns, Clean Code  
+- **Database:** SQL Server  
+
+---
+
+## 🛠️ Featured Projects
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **Contacts Manager** | C#, WinForms, SQL | Built using **3-Tier Architecture** (Presentation, Business, Data Layers) with full CRUD operations. |
-| **Bank System Enterprise** | C++, OOP | A complex financial system featuring user permissions, currency exchange, and transaction logging. |
-| **Generic DS Library** | C++ Templates | Custom implementation of Vectors, Stacks, and Doubly Linked Lists to master memory management. |
-| **Math Game** | C#, WinForms | An interactive GUI application focusing on event-driven programming and game logic. |
-
-### 🚀 Key Achievements
-*   Solved **400+ Algorithmic Problems** on the ProgrammingAdvices platform.
-*   Built a **custom String & Date Library** in C++ to understand low-level implementation.
-*   Successfully transitioned from low-level C++ to high-level .NET enterprise architecture.
+| **Contacts Manager** | C#, WinForms, SQL Server | Built using **3-Tier Architecture** (Presentation, Business, Data layers) with full CRUD operations. |
+| **Bank System Enterprise** | C++, OOP | Financial system featuring user permissions, currency exchange, and transaction logging. |
+| **Generic Data Structures Library** | C++ Templates | Custom implementation of Vectors, Stacks, and Doubly Linked Lists to strengthen memory management and templates usage. |
+| **Math Game** | C#, WinForms | Interactive GUI application focusing on event-driven programming and game logic. |
 
 ---
-[Connect with me on LinkedIn](https://www.linkedin.com/in/mohamed-salahdine/)
+
+## 🚀 Key Achievements
+
+- Solved **400+ algorithmic and problem-solving challenges** on ProgrammingAdvices.
+- Built **custom String and Date libraries in C++** to understand low-level implementation and memory handling.
+- Successfully transitioned from **low-level C++ development to high-level .NET application architecture**.
+
+---
+
+📫 **Connect with me on LinkedIn**  
+🔗 https://www.linkedin.com/in/mohamed-salahdine/
