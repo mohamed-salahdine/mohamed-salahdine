@@ -1,5 +1,4 @@
-# Hello, I'm Mohamed SALAHDINE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+# Hello, I'm Mohamed SALAHDINE 👋
 I’m a **Software Engineer** specializing in the **Microsoft Stack (.NET)**, with a strong foundation in **computer science fundamentals**.
 
 I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focus on **Algorithms, Data Structures, Object-Oriented Programming, and backend system design**, developed through extensive hands-on practice.
