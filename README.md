@@ -5,7 +5,7 @@ I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focu
 
 ---
 
-## 💻 Technologies
+## 🛠️ Technologies
 
 - **Languages:** C++, C#, T-SQL  
 - **Development:** .NET, WinForms, ASP.NET Core  
@@ -14,7 +14,7 @@ I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focu
 
 ---
 
-## 🛠️ Featured Projects
+## 📂 Featured Projects
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focu
 
 ---
 
-## 🚀 Key Achievements
+## 🏆 Key Achievements
 
 - Solved **400+ algorithmic and problem-solving challenges** on ProgrammingAdvices.
 - Built **custom String and Date libraries in C++** to understand low-level implementation and memory handling.
