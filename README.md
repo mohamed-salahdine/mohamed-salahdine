@@ -19,9 +19,7 @@ I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focu
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | **Contacts Manager** | C#, WinForms, SQL Server | Built using **3-Tier Architecture** (Presentation, Business, Data layers) with full CRUD operations. |
-| **Bank System Enterprise** | C++, OOP | Financial system featuring user permissions, currency exchange, and transaction logging. |
-| **Generic Data Structures Library** | C++ Templates | Custom implementation of Vectors, Stacks, and Doubly Linked Lists to strengthen memory management and templates usage. |
-| **Math Game** | C#, WinForms | Interactive GUI application focusing on event-driven programming and game logic. |
+| **[Bank Management System](https://github.com/mohamed-salahdine/Bank-Management-System.git)** | C++, OOP | Financial system featuring user permissions, currency exchange, and transaction logging. |
 
 ---
 
