@@ -9,7 +9,7 @@ I’m a graduate of the **ProgrammingAdvices Learning Path**, with a strong focu
 
 - **Languages:** C++, C#, T-SQL  
 - **Development:** .NET, WinForms, ASP.NET Core  
-- **Principles:** OOP, SOLID, Design Patterns, Clean Code  
+- **Principles:** OOP, SOLID, Clean Code  
 - **Database:** SQL Server  
 
 ---
